@@ -1,4 +1,12 @@
-# RNA-Seq-ebook
+#NGS Data Analysis 
+
+### Sequencing 
+Illumina
+
+### Bioinformatics
+#### Primary Analysis 
+
+### RNA-Seq
 
 Ideas for the writing 
 
@@ -13,3 +21,7 @@ https://www.researchgate.net/post/What_is_p_value_and_FDR_value_in_RNA_seq_data
 
 
 #### https://reneshbedre.github.io/blog/expression_units.html
+
+### ChiP-Seq
+
+### Somatic/Germline Variant Calling 
